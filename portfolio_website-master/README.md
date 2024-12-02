@@ -17,13 +17,19 @@
    ```bash
    git clone https://github.com/your-username/portfolio-website.git
    
-2. cd portfolio-website
+2. Navigate to the project folder
+   ```bash
+    cd portfolio-website
 
-3. npm install
+4. Install dependencies:
+   ```bash
+      npm install
 
-4. npm start
+6. Start the development server:
+   ```bash
+    npm start
 
-5. Open http://localhost:3000 in your browser to view the app.
+8. Open http://localhost:3000 in your browser to view the app.
 
 ## 🤝 Contributions
 
